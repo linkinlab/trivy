@@ -28,7 +28,7 @@ Scanners (what Trivy can find there):
 - Known vulnerabilities (CVEs)
 - IaC issues and misconfigurations
 - Sensitive information and secrets
-- Software licenses
+- Software licenses xyz
 
 Trivy supports most popular programming languages, operating systems, and platforms. For a complete list, see the [Scanning Coverage] page.
 
